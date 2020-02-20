@@ -60,6 +60,7 @@ private void Scrollview_Scrolled(object sender, ScrolledEventArgs e)
 }
 ```
 **Output**
+
 ![Scrolling Direction](https://github.com/SyncfusionExamples/how-to-detect-list-view-scrolling-direction-in-xamarin-forms/blob/master/Screenshots/ScrollingDirection.gif)
 
 
