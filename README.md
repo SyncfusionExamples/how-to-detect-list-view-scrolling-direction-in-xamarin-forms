@@ -1,5 +1,5 @@
 # how-to-detect-xamarin.forms-listview-scrolling-direction
-ListView allows you to find the scrolling direction. You can find the scrolling direction in Xamarin.Forms ListView by using the Scrolled event of ScollView.
+You can find the scrolling direction in Xamarin.Forms ListView by using the Scrolled event of ScollView.
 
 **Xaml**
 
